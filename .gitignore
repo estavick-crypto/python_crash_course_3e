@@ -1,38 +1,6 @@
 # VS Code settings (user-specific)
 .vscode/
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-.hypothesis/
-.pytest_cache/
-
-# Django/migrations (if applicable)
-*/migrations/__pycache__/s
-*/migrations/*.pyc
-*/migrations/*.pyo
-
-# PyBuilder
-target/
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Pyre type checker
-.pyre/
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
 # Backup / temporary files
 *.bak
 *.tmp
