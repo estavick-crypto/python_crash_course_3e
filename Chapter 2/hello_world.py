@@ -1,4 +1,4 @@
-# removed markers
+# removed markers and duplicates
 message = "Hello Python World!"
 print(message)
 
