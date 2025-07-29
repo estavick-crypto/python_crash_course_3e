@@ -43,12 +43,11 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
-*.py,cover
 .hypothesis/
 .pytest_cache/
 
 # Django/migrations (if applicable)
-*/migrations/__pycache__/
+*/migrations/__pycache__/s
 */migrations/*.pyc
 */migrations/*.pyo
 
