@@ -1,4 +1,4 @@
-# Prints out all my favorite manufacturers and facts
+# Prints personal statements about favorite vehicle manufacturers
 manufacturer_names = ['honda', 'tesla','toyota', 'yamaha']
 
 print(f"I have a 2020 {manufacturer_names[0].title()}.")
